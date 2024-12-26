@@ -1,0 +1,2 @@
+Установка библиотек
+pip install tensorflow matplotlib numpy pandas
